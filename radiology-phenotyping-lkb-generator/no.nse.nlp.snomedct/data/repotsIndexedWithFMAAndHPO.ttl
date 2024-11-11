@@ -1,0 +1,125 @@
+@prefix hr:    <http://iserve.kmi.open.ac.uk/ns/hrests#> .
+@prefix msm-swagger: <http://iserve.kmi.open.ac.uk/ns/msm-swagger#> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix msm-nfp: <http://iserve.kmi.open.ac.uk/ns/msm-nfp#> .
+@prefix wl:    <http://www.wsmo.org/ns/wsmo-lite#> .
+@prefix sawsdl: <http://www.w3.org/ns/sawsdl#> .
+@prefix http-status-codes: <http://www.w3.org/2011/http-statusCodes#ß> .
+@prefix msm:   <http://iserve.kmi.open.ac.uk/ns/msm#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix dc: <http://purl.org/dc/elements/1.1> .
+@prefix sioc:  <http://rdfs.org/sioc/ns#> .
+@prefix schema: <http://schema.org/> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix http-methods: <http://www.w3.org/2011/http-methods#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix msm-wsdl: <http://iserve.kmi.open.ac.uk/ns/msm-wsdl#> .
+@prefix cc:    <http://creativecommons.org/ns#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix si: <http://www.w3schools.com/rdf/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix scds: <http://www.telemed.no/shaman/scds#> .
+@prefix scds: <http://arch.telemed.no:9001/ontology#> .
+@prefix scdsft: <arch.telemed.no:9001/cdsfunctionaltaxonomy#> .
+@prefix umls: <https://uts.nlm.nih.gov/uts/umls/concept/> .
+@prefix sct:   <http://www.ehealthresearch.no/2022/snomedct-lite#> .
+
+sct:patient1 a schema:Patient .
+sct:patient1 schema:birthDate "2013-02-21T10:00:00"^^xsd:date .
+sct:patient1 schema:gender schema:Male .
+sct:patient1 schema:identifier "p123456"@en .
+
+sct:study1 a schema:MedicalStudy .
+sct:study1 schema:identifier "s123456"@en .
+
+sct:image1 a schema:ImageObject .
+sct:image1 schema:identifier "s123456"@en .
+
+sct:report1 a sct:Report ;
+    rdfs:isDefinedBy <http://www.ehealthresearch.no/2022/snomedct-lite#> ;
+    rdfs:label "reportExample2-radioloc cervical"@en ;
+    sct:referencesConcept sct:84667006 ;
+    sct:locatedAt sct:service_oncology_research;
+    ns0:term_status "stable" .
+
+sct:report1 sct:referencesConcept sct:123123123 .
+sct:report1 sct:referencesLocationConcept sct:678876 .
+sct:report1 sct:referencesToPatient sct:patient1 .
+sct:report1 sct:referencesToMedicalStudy sct:study1 .
+sct:report1 sct:referencesToImage sct:image1 .
+
+###
+sct:839860000000000000000000000000000000 a schema:Patient ;
+ 	 schema:birthDate "1930-01-01T10:00:00"^^xsd:date ; 
+ 	 schema:gender "F"^^xsd:string ; 
+ 	 sct:schema:identifier "839860000000000000000000000000000000"^^xsd:string . 
+
+sct:20536686640136348236148679891455886468_k6ga29.png a schema:ImageObject ;
+ 	 sct:schema:identifier "20536686640136348236148679891455886468_k6ga29.png"^^xsd:string . 
+
+sct:20536700000000000000000000000000000000 a schema:MedicalStudy ;
+ 	 sct:schema:identifier "20536700000000000000000000000000000000"^^xsd:string . 
+
+sct:4765777 a schema:Report ;
+ 	  rdfs:isDefinedBy <http://www.ehealthresearch.no/2022/snomedct-lite#> ; 
+ 	  rdfs:label "4765777"^^xsd:string ; 
+ 	  schema:identifier "839860000000000000000000000000000000"^^xsd:string ; 
+ 	  ns0:term_status "stable" ; 
+ 	  sct:locatedAt sct:service_oncology_research . 
+
+sct:313573000000000000000000000000000000000 a schema:Patient ;
+ 	 schema:birthDate "1929-01-01T10:00:00"^^xsd:date ; 
+ 	 schema:gender "M"^^xsd:string ; 
+ 	 sct:schema:identifier "313573000000000000000000000000000000000"^^xsd:string . 
+
+sct:135803415504923515076821959678074435083_fzis7d.png a schema:ImageObject ;
+ 	 sct:schema:identifier "135803415504923515076821959678074435083_fzis7d.png"^^xsd:string . 
+
+sct:135803000000000000000000000000000000000 a schema:MedicalStudy ;
+ 	 sct:schema:identifier "135803000000000000000000000000000000000"^^xsd:string . 
+
+sct:4991845 a schema:Report ;
+ 	  rdfs:isDefinedBy <http://www.ehealthresearch.no/2022/snomedct-lite#> ; 
+ 	  rdfs:label "4991845"^^xsd:string ; 
+ 	  schema:identifier "313573000000000000000000000000000000000"^^xsd:string ; 
+ 	  ns0:term_status "stable" ; 
+ 	  sct:locatedAt sct:service_oncology_research . 
+
+sct:313573000000000000000000000000000000000 a schema:Patient ;
+ 	 schema:birthDate "1929-01-01T10:00:00"^^xsd:date ; 
+ 	 schema:gender "M"^^xsd:string ; 
+ 	 sct:schema:identifier "313573000000000000000000000000000000000"^^xsd:string . 
+
+sct:135803415504923515076821959678074435083_fzis7b.png a schema:ImageObject ;
+ 	 sct:schema:identifier "135803415504923515076821959678074435083_fzis7b.png"^^xsd:string . 
+
+sct:135803000000000000000000000000000000000 a schema:MedicalStudy ;
+ 	 sct:schema:identifier "135803000000000000000000000000000000000"^^xsd:string . 
+
+sct:4991845 a schema:Report ;
+ 	  rdfs:isDefinedBy <http://www.ehealthresearch.no/2022/snomedct-lite#> ; 
+ 	  rdfs:label "4991845"^^xsd:string ; 
+ 	  schema:identifier "313573000000000000000000000000000000000"^^xsd:string ; 
+ 	  ns0:term_status "stable" ; 
+ 	  sct:locatedAt sct:service_oncology_research . 
+
+sct:50783100000000000000000000000000000000 a schema:Patient ;
+ 	 schema:birthDate "1925-01-01T10:00:00"^^xsd:date ; 
+ 	 schema:gender "F"^^xsd:string ; 
+ 	 sct:schema:identifier "50783100000000000000000000000000000000"^^xsd:string . 
+
+sct:113855343774216031107737439268243531979_3k951l.png a schema:ImageObject ;
+ 	 sct:schema:identifier "113855343774216031107737439268243531979_3k951l.png"^^xsd:string . 
+
+sct:113855000000000000000000000000000000000 a schema:MedicalStudy ;
+ 	 sct:schema:identifier "113855000000000000000000000000000000000"^^xsd:string . 
+
+sct:4955977 a schema:Report ;
+ 	  rdfs:isDefinedBy <http://www.ehealthresearch.no/2022/snomedct-lite#> ; 
+ 	  rdfs:label "4955977"^^xsd:string ; 
+ 	  schema:identifier "50783100000000000000000000000000000000"^^xsd:string ; 
+ 	  ns0:term_status "stable" ; 
+ 	  sct:locatedAt sct:service_oncology_research .   
+ 	  
+ 	  

@@ -1,0 +1,388 @@
+UMLS_code;Text
+C0000726;abdomen
+C0230168;abdominal cavity
+C0000739;abdominal muscles
+C0836916;abdominal wall structure
+C0001527;adipose tissue
+C0229984;anatomical space structure
+C0205143;angular
+C0205094;anterior
+C1183910;anterior fibromuscular stroma of prostate
+C0442070;anterior wall
+C0559280;anterior wall of bladder
+C0332194;anterolateral
+C0003461;anus
+C0205111;apical
+C4274111;apical peripheral zone of prostate
+C4274100;apical transition zone of prostate
+C0221464;arterial
+C0003842;arteries
+C0205112;basal
+C4274193;basal peripheral zone of prostate
+C4274162;basal transition zone of prostate
+C0205383;bifurcated
+C0238767;bilateral
+C0444465;bilobar
+C1268128;bladder part
+C0005847;blood vessel
+C0040300;body tissue
+C0005953;bone marrow
+C0020889;bone structure of ilium
+C4304628;bone structure of left acetabulum
+C0582597;bone structure of pelvic region and/or thigh
+C0034014;bone structure of pubis
+C0730119;bone structure of spine and/or pelvis
+C0448168;bony pelvis
+C0458691;border of prostate
+C0228037;both epididymides
+C0227665;both kidneys
+C1267689;both lateral lobes of the prostate
+C0227989;both seminal vesicles
+C0227690;both ureters
+C0458703;bulb of penis
+C0205151;capsular
+C0205097;caudal
+C0205099;central
+C4273550;central zone of left half prostate
+C0458698;central zone of prostate
+C4274157;central zone of right half prostate
+C0229807;common iliac lymph node
+C0441988;contralateral
+C0010090;corpus callosum
+C0227937;corpus cavernosum structure
+C0457144;couinaud hepatic segment vii
+C3163632;cranial
+C0205219;diffuse
+C0205108;distal (qualifier value)
+C1744561;distal urethra
+C0205095;dorsal
+C1305912;entire abdominal viscera
+C1279100;entire acetabulum
+C4274195;entire anterior basal part of peripheral zone of left half prostate
+C4274206;entire anterior basal part of transition zone of left half prostate
+C4274094;entire anterior fibromuscular stroma of prostate
+C1281146;entire anterior surface of prostate
+C1281150;entire apex of prostate
+C4274126;entire apical part of peripheral zone of left half prostate
+C1321508;entire axial skeleton
+C1281149;entire base of prostate
+C1281573;entire bladder
+C1266908;entire bone (organ)
+C4516725;entire bone of ilium
+C1305772;entire bony pelvis
+C1281142;entire capsule of prostate
+C4274156;entire central zone of left half prostate
+C1281569;entire colon
+C0447591;entire distal urethra
+C1321549;entire dome of urinary bladder
+C1288441;entire fat pad of ischiorectal fossa
+C1279114;entire greater trochanter of femur
+C1279155;entire iliac fossa
+C1282429;entire iliac lymph node
+C1305043;entire iliopsoas muscle
+C1279102;entire ilium
+C1279050;entire inguinal lymph node
+C1280084;entire inguinal region
+C0458688;entire interstitial tissue of prostate
+C1279541;entire intertrochanteric line of femur
+C4516207;entire intraabdominal region
+C1284248;entire ischiorectal fossa
+C4274187;entire lateral middle regional part of peripheral zone of right half prostate
+C1288642;entire left femoral region
+C1268234;entire left hip region
+C1284947;entire left inguinal region
+C1267688;entire left lateral lobe of prostate
+C1267482;entire left renal vein
+C1280478;entire left seminal vesicle
+C1267097;entire levator prostatae muscle
+C1281143;entire lobe of prostate
+C1269047;entire lymph node
+C1280343;entire median lobe of prostate
+C4274148;entire middle regional part of transition zone of left half prostate
+C4512559;entire organ parenchyma
+C1281348;entire pelvic cavity
+C1283846;entire pelvic floor
+C1279864;entire pelvis
+C1281859;entire periprostatic tissue
+C1280907;entire perirectal region
+C1280588;entire perirectal tissue
+C4274127;entire posterior apical part of transition zone of right half prostate
+C4274161;entire posterior basal part of transition zone of left half prostate
+C4516707;entire posterior section of prostate
+C1281147;entire posterior surface of prostate
+C4274152;entire posterolateral basal part of peripheral zone of left half prostate
+C1281343;entire presacral region
+C1278980;entire prostate
+C4516969;entire prostatic connective tissue
+C1321499;entire prostatic gland
+C1280468;entire prostatic glandular tissue
+C1305196;entire prostatic utricle
+C1281620;entire prostatic venous plexus
+C1305038;entire puborectalis muscle
+C1269031;entire rectouterine pouch
+C1761548;entire rectus muscle
+C1280086;entire retroperitoneal space
+C1268233;entire right hip region
+C1267687;entire right lateral lobe of prostate
+C1280476;entire right seminal vesicle
+C1269542;entire sacrum
+C4514288;entire septum of prostate
+C1305036;entire skeletal muscle of pelvic diaphragm
+C4516360;entire transition zone of prostate
+C1281259;entire vesical plexus
+C0014609;epithelium
+C0229815;external iliac lymph node group
+C1283157;extracapsular approach
+C0015641;fascia
+C0015811;femur
+C0448199;femur nec
+C0223552;fifth lumbar vertebra
+C0457876;first sacral spinal cord segment
+C0205234;focal
+C0223537;fourth lumbar vertebra
+C0017067;ganglia
+C0559522;genital system
+C1285092;gland
+C0458695;glandular zone of prostate
+C0018670;head
+C0228023;head of epididymis
+C0015813;head of femur
+C0019558;hip joint
+C0019552;hip structure
+C0230189;hypogastric region
+C0223651;iliac crest structure
+C0225261;iliac fascia structure
+C0729890;iliac vessel
+C1268186;ilium part
+C0542339;inferior
+C0458693;inferior border of prostate
+C0021445;inguinal canal structure
+C0222065;inguinal gland
+C0729596;inguinal lymph node group
+C0018246;inguinal region
+C0447192;internal iliac lymph node
+C0227964;interstitial tissue of prostate
+C0021853;intestines
+C0021852;intestines, small
+C0442115;intraluminal
+C0442117;intramuscular
+C0442120;intraperitoneal
+C0442124;intravesical
+C0441989;ipsilateral
+C0225295;ischiorectal fossa structure
+C0458407;junction of ureter
+C0458637;junction of vas and seminal vesicle duct
+C0022646;kidney
+C0205093;lateral
+C0205091;left
+C4274174;left anterior apical part of transition zone of prostate
+C4274170;left anterior apical peripheral zone of prostate
+C4273857;left anterior basal peripheral zone of prostate
+C4274207;left anterior basal transition zone of prostate
+C4274185;left anterior middle peripheral zone of prostate
+C4274190;left anterior middle transition zone of prostate
+C4274171;left apical peripheral zone of prostate
+C4274176;left apical transition zone of prostate
+C4274120;left basal peripheral zone of prostate
+C4274160;left basal transition zone of prostate
+C0230321;left iliac region
+C0459929;left inguinal canal
+C0227614;left kidney
+C4274142;left lateral middle peripheral zone of prostate
+C0442072;left lateral wall
+C4274192;left middle transition zone of prostate
+C4274173;left posterior apical part of transition zone of prostate
+C4274204;left posterior basal transition zone of prostate
+C4274189;left posterior middle transition zone of prostate
+C4274168;left posterolateral apical peripheral zone of prostate
+C4274197;left posterolateral basal peripheral zone of prostate
+C4274180;left posterolateral middle peripheral zone of prostate
+C4274166;left posteromedial apical peripheral zone of prostate
+C4274183;left posteromedial middle peripheral zone of prostate
+C0443246;left sided
+C0230278;lesser pelvis
+C0446438;level of the first sacral vertebra
+C0736268;liver parenchyma
+C0205276;local
+C0392752;localized
+C0734761;lower pole, left kidney
+C0024090;lumbar region
+C3887615;lumbar spine structure
+C0024204;lymph nodes
+C0024235;lymphatic system
+C0229654;lymphoid nodule
+C0205098;medial
+C0025066;mediastinum
+C0025474;mesentery
+C0447187;mesorectal lymph node group
+C0447562;mesorectum
+C1562853;mid-heel line
+C0444598;middle
+C4274186;middle peripheral zone of prostate
+C0442050;middle third
+C4274191;middle transition zone of prostate
+C0026845;muscle
+C0227716;neck of urinary bladder
+C0223670;obturator foramen
+C0524464;organ parenchyma
+C0456269;para-aortic region
+C0456605;pedicle
+C0559769;pelvic cavity structure
+C0206248;pelvic diaphragm
+C0729595;pelvic lymph node group
+C0446845;pelvic parasympathetic nerve
+C0230273;pelvic viscus
+C0030797;pelvis
+C0030851;penis
+C1268137;penis part
+C0205100;peripheral
+C0227522;peripheral lobular region of liver
+C0458696;peripheral zone of prostate
+C0442034;peritoneal
+C1704247;peritoneal cavity
+C0729857;perivesical tissue
+C0458669;pole of seminal vesicle
+C0227976;posterior lobe of prostate
+C0442071;posterior wall
+C0227701;posterior wall of urinary bladder
+C0332195;posterolateral
+C0033572;prostate
+C1268138;prostate part
+C0459540;prostatic plexus
+C0226769;prostatic venous plexus
+C0205107;proximal
+C0227931;radix penis structure
+C0205052;rectal
+C0227404;rectal ampulla
+C0034896;rectum
+C1268424;rectum and abdominal wall, cs
+C1299201;rectum part
+C0206066;rectus abdominis
+C0458420;region of bladder
+C0205147;regional
+C0227672;renal sinus
+C0035359;retroperitoneal space
+C0205090;right
+C4274131;right anterior apical part of transition zone of prostate
+C4274125;right anterior apical peripheral zone of prostate
+C4274200;right anterior basal peripheral zone of prostate
+C4273547;right anterior basal transition zone of prostate
+C4274141;right anterior middle peripheral zone of prostate
+C4274147;right anterior middle transition zone of prostate
+C4274128;right apical peripheral zone of prostate
+C4274155;right basal peripheral zone of prostate
+C4274164;right basal transition zone of prostate
+C1285116;right hip joint structure
+C0446497;right iliac fossa
+C0459928;right inguinal canal
+C0230318;right inguinal region
+C4274143;right lateral middle peripheral zone of prostate
+C0227481;right lobe of liver
+C4273545;right middle transition zone of prostate
+C4274205;right posterior basal transition zone of prostate
+C1301130;right posterior iliac crest
+C4273542;right posterior middle transition zone of prostate
+C4273861;right posterolateral apical peripheral zone of prostate
+C4274198;right posterolateral basal peripheral zone of prostate
+C4274184;right posterolateral middle peripheral zone of prostate
+C4274167;right posteromedial apical peripheral zone of prostate
+C4274181;right posteromedial middle peripheral zone of prostate
+C0444532;right sided
+C0036036;sacroiliac joint structure
+C0205129;sagittal
+C0036471;scrotum
+C0227984;seminal duct structure
+C1285125;seminal vesicle part
+C1282104;seminal vesicle wall
+C0036628;seminal vesicles
+C0458684;septum of prostate
+C1719918;sigma
+C0227391;sigmoid colon
+C0262950;skeletal bone
+C0448421;skeletal muscle structure of pelvis
+C0278443;sphincter pancreaticus structure
+C3714759;stifle bone
+C0223607;structure of ala of sacrum
+C0227426;structure of anal valves
+C4274114;structure of anterior section of prostate
+C0227960;structure of anterior surface of prostate
+C0227959;structure of apex of prostate
+C0227958;structure of base of prostate
+C4076613;structure of bone marrow of pelvis and/or femur
+C0227963;structure of capsule of prostate
+C0224993;structure of extracapsular ligament
+C0230197;structure of extraperitoneal space
+C0278463;structure of iliac fossa
+C0223665;structure of iliopubic eminence
+C0227626;structure of inferior renal segment
+C0458697;structure of internal glandular zone of prostate
+C0226364;structure of internal iliac artery
+C0227720;structure of internal sphincter of urinary bladder
+C0223547;structure of intervertebral foramen of fourth lumbar vertebra
+C0227973;structure of lateral lobe of prostate
+C0524471;structure of left hip
+C0227975;structure of left lateral lobe of prostate
+C0227980;structure of left seminal vesicle
+C0226709;structure of left suprarenal vein
+C0226710;structure of left testicular vein
+C0227998;structure of left testis
+C0227704;structure of left wall of urinary bladder
+C0224384;structure of levator ani muscle
+C0227970;structure of lobe of prostate
+C0228928;structure of lumbosacral trunk
+C0524461;structure of lumen of body system
+C0458505;structure of male bladder neck
+C0227972;structure of median lobe of prostate
+C3686616;structure of mesenteric adipose tissue
+C2330062;structure of middle region of prostate
+C0015815;structure of neck of femur
+C0501403;structure of nerve plexus
+C0230303;structure of paravesical fossa
+C0229048;structure of pelvic ganglia
+C0684083;structure of pelvic girdle
+C0227978;structure of periprostatic tissue
+C0230290;structure of perirectal region
+C0227409;structure of perirectal tissue
+C0227745;structure of periurethral tissue
+C0225983;structure of perivascular space
+C0227483;structure of posterior segment of right lobe of liver
+C0230118;structure of presacral region
+C0227967;structure of prostatic glandular tissue
+C0227736;structure of prostatic utricle
+C0223663;structure of pubic crest
+C0013075;structure of rectouterine pouch
+C0230301;structure of rectovesical pouch
+C0230286;structure of rectovesical septum
+C0446603;structure of region of peritoneal cavity
+C0035278;structure of rete testis
+C0226399;structure of right external iliac artery
+C4543216;structure of right iliac vessel
+C0227974;structure of right lateral lobe of prostate
+C0227979;structure of right seminal vesicle
+C0227997;structure of right testis
+C0227682;structure of right ureter
+C0227703;structure of right wall of urinary bladder
+C0223599;structure of second sacral vertebra
+C0223654;structure of superior ischial ramus
+C0227623;structure of superior renal segment
+C0228973;structure of sympathetic trunk ganglia
+C0227719;structure of urinary bladder muscular sphincter
+C0226768;structure of vesical venous plexus
+C0458692;superior border of prostate
+C0039597;testis
+C0223522;third lumbar vertebra
+C1261214;transition zone of prostate
+C0447586;trigone of bladder
+C1282910;upper
+C0230165;upper abdomen (surface region)
+C0442049;upper third
+C0041951;ureter
+C1268127;ureter part
+C0041967;urethra
+C1268129;urethra part
+C0457053;urethral sphincters
+C0005682;urinary bladder
+C0037949;vertebral column
+C0230003;vertex
+C0458421;wall of bladder
+C1283711;zone of lymph node

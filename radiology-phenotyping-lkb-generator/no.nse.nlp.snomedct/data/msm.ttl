@@ -1,0 +1,133 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix dc: <http://purl.org/dc/terms/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ns0: <http://www.w3.org/2003/06/sw-vocab-status/ns#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://iserve.kmi.open.ac.uk/ns/msm>
+  a owl:Ontology ;
+  dc:created "2022-25-05"^^xsd:date ;
+  dc:issued "2022-25-05"^^xsd:date ;
+  dc:description "This is a simple ontology that provides the core descriptions of SNOMED-CT terms hierarchy ignoring most of the logic constraints."@en ;
+  dc:modified "2022-25-05"^^xsd:date ;
+  dc:creator <https://ehealthresearch.no/>, <https://ehealthresearch.no/luis-marco-ruiz> ;
+  rdfs:label "SNOMEDCT-Lite"@en ;
+  owl:versionInfo "0.1" .
+
+<http://iserve.kmi.open.ac.uk/ns/msm#MessageContent>
+  a rdfs:Class ;
+  rdfs:isDefinedBy <http://iserve.kmi.open.ac.uk/ns/msm> ;
+  rdfs:label "Message Content"@en ;
+  rdfs:subClassOf <http://iserve.kmi.open.ac.uk/ns/msm#MessagePart> ;
+  ns0:term_status "stable" .
+
+<http://iserve.kmi.open.ac.uk/ns/msm#MessagePart>
+  a rdfs:Class ;
+  rdfs:isDefinedBy <http://iserve.kmi.open.ac.uk/ns/msm> ;
+  rdfs:label "Message Part"@en ;
+  ns0:term_status "stable" .
+
+<http://iserve.kmi.open.ac.uk/ns/msm#Operation>
+  a rdfs:Class ;
+  rdfs:isDefinedBy <http://iserve.kmi.open.ac.uk/ns/msm> ;
+  rdfs:label "Operation"@en ;
+  ns0:term_status "stable" .
+
+<http://iserve.kmi.open.ac.uk/ns/msm#Service>
+  a rdfs:Class ;
+  rdfs:isDefinedBy <http://iserve.kmi.open.ac.uk/ns/msm> ;
+  rdfs:label "Service"@en ;
+  ns0:term_status "stable" .
+
+<http://iserve.kmi.open.ac.uk/ns/msm#hasInput>
+  a rdf:Property ;
+  rdfs:isDefinedBy <http://iserve.kmi.open.ac.uk/ns/msm> ;
+  rdfs:domain <http://iserve.kmi.open.ac.uk/ns/msm#Operation> ;
+  rdfs:label "has Input"@en ;
+  rdfs:range <http://iserve.kmi.open.ac.uk/ns/msm#MessageContent> ;
+  ns0:term_status "stable" .
+
+<http://iserve.kmi.open.ac.uk/ns/msm#hasMandatoryPart>
+  a rdf:Property ;
+  rdfs:isDefinedBy <http://iserve.kmi.open.ac.uk/ns/msm> ;
+  rdfs:label "has Mandatory Part"@en ;
+  rdfs:subPropertyOf <http://iserve.kmi.open.ac.uk/ns/msm#hasPart> ;
+  ns0:term_status "stable" .
+
+<http://iserve.kmi.open.ac.uk/ns/msm#hasName>
+  a rdf:Property ;
+  rdfs:isDefinedBy <http://iserve.kmi.open.ac.uk/ns/msm> ;
+  rdfs:domain <http://iserve.kmi.open.ac.uk/ns/msm#MessagePart> ;
+  rdfs:label "has Name"@en ;
+  rdfs:range rdfs:Literal ;
+  ns0:term_status "stable" .
+
+<http://iserve.kmi.open.ac.uk/ns/msm#hasOperation>
+  a rdf:Property ;
+  rdfs:isDefinedBy <http://iserve.kmi.open.ac.uk/ns/msm> ;
+  rdfs:domain <http://iserve.kmi.open.ac.uk/ns/msm#Service> ;
+  rdfs:label "has Operation"@en ;
+  rdfs:range <http://iserve.kmi.open.ac.uk/ns/msm#Operation> ;
+  ns0:term_status "stable" .
+
+<http://iserve.kmi.open.ac.uk/ns/msm#hasOptionalPart>
+  a rdf:Property ;
+  rdfs:isDefinedBy <http://iserve.kmi.open.ac.uk/ns/msm> ;
+  rdfs:label "has Optional Part"@en ;
+  rdfs:subPropertyOf <http://iserve.kmi.open.ac.uk/ns/msm#hasPart> ;
+  ns0:term_status "stable" .
+
+<http://iserve.kmi.open.ac.uk/ns/msm#hasOutput>
+  a rdf:Property ;
+  rdfs:isDefinedBy <http://iserve.kmi.open.ac.uk/ns/msm> ;
+  rdfs:domain <http://iserve.kmi.open.ac.uk/ns/msm#Operation> ;
+  rdfs:label "has Output"@en ;
+  rdfs:range <http://iserve.kmi.open.ac.uk/ns/msm#MessageContent> ;
+  ns0:term_status "stable" .
+
+<http://iserve.kmi.open.ac.uk/ns/msm#hasFault>
+  a rdf:Property ;
+  rdfs:isDefinedBy <http://iserve.kmi.open.ac.uk/ns/msm> ;
+  rdfs:domain <http://iserve.kmi.open.ac.uk/ns/msm#Operation> ;
+  rdfs:label "has Fault"@en ;
+  rdfs:range <http://iserve.kmi.open.ac.uk/ns/msm#MessageContent> ;
+  ns0:term_status "stable" .
+
+<http://iserve.kmi.open.ac.uk/ns/msm#hasInputFault>
+  rdfs:subPropertyOf <http://iserve.kmi.open.ac.uk/ns/msm#hasFault> ;
+  rdfs:isDefinedBy <http://iserve.kmi.open.ac.uk/ns/msm> ;
+  rdfs:domain <http://iserve.kmi.open.ac.uk/ns/msm#Operation> ;
+  rdfs:label "has Input Fault"@en ;
+  rdfs:range <http://iserve.kmi.open.ac.uk/ns/msm#MessageContent> ;
+  ns0:term_status "archaic" .
+
+<http://iserve.kmi.open.ac.uk/ns/msm#hasOutputFault>
+  rdfs:subPropertyOf <http://iserve.kmi.open.ac.uk/ns/msm#hasFault> ;
+  rdfs:isDefinedBy <http://iserve.kmi.open.ac.uk/ns/msm> ;
+  rdfs:domain <http://iserve.kmi.open.ac.uk/ns/msm#Operation> ;
+  rdfs:label "has Output Fault"@en ;
+  rdfs:range <http://iserve.kmi.open.ac.uk/ns/msm#MessageContent> ;
+  ns0:term_status "archaic" .
+
+<http://iserve.kmi.open.ac.uk/ns/msm#hasPart>
+  a rdf:Property ;
+  rdfs:isDefinedBy <http://iserve.kmi.open.ac.uk/ns/msm> ;
+  rdfs:label "has Part"@en ;
+  rdfs:subPropertyOf <http://iserve.kmi.open.ac.uk/ns/msm#hasPartTransitive> ;
+  ns0:term_status "stable" .
+
+<http://iserve.kmi.open.ac.uk/ns/msm#hasPartTransitive>
+  a owl:TransitiveProperty ;
+  rdfs:isDefinedBy <http://iserve.kmi.open.ac.uk/ns/msm> ;
+  rdfs:domain <http://iserve.kmi.open.ac.uk/ns/msm#MessagePart> ;
+  rdfs:label "has Part Transitive"@en ;
+  rdfs:range <http://iserve.kmi.open.ac.uk/ns/msm#MessagePart> ;
+  ns0:term_status "stable" .
+
+<http://iserve.kmi.open.ac.uk/ns/msm#isGroundedIn>
+  a rdf:Property ;
+  rdfs:isDefinedBy <http://iserve.kmi.open.ac.uk/ns/msm> ;
+  rdfs:domain <http://iserve.kmi.open.ac.uk/ns/msm#Service>, <http://iserve.kmi.open.ac.uk/ns/msm#Operation>, <http://iserve.kmi.open.ac.uk/ns/msm#MessagePart> ;
+  rdfs:label "is grounded in"@en ;
+  ns0:term_status "testing" .

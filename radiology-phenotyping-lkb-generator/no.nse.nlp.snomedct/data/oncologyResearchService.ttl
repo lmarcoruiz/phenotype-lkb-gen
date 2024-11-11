@@ -1,0 +1,100 @@
+@prefix hr:    <http://iserve.kmi.open.ac.uk/ns/hrests#> .
+@prefix msm-swagger: <http://iserve.kmi.open.ac.uk/ns/msm-swagger#> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix msm-nfp: <http://iserve.kmi.open.ac.uk/ns/msm-nfp#> .
+@prefix wl:    <http://www.wsmo.org/ns/wsmo-lite#> .
+@prefix sawsdl: <http://www.w3.org/ns/sawsdl#> .
+@prefix http-status-codes: <http://www.w3.org/2011/http-statusCodes#ß> .
+@prefix msm:   <http://iserve.kmi.open.ac.uk/ns/msm#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix dc: <http://purl.org/dc/elements/1.1> .
+@prefix sioc:  <http://rdfs.org/sioc/ns#> .
+@prefix schema: <http://schema.org/> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix http-methods: <http://www.w3.org/2011/http-methods#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix msm-wsdl: <http://iserve.kmi.open.ac.uk/ns/msm-wsdl#> .
+@prefix cc:    <http://creativecommons.org/ns#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix si: <http://www.w3schools.com/rdf/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix scds: <http://www.telemed.no/shaman/scds#> .
+@prefix scds: <http://arch.telemed.no:9001/ontology#> .
+@prefix scdsft: <arch.telemed.no:9001/cdsfunctionaltaxonomy#> .
+@prefix umls: <https://uts.nlm.nih.gov/uts/umls/concept/> .
+@prefix sct:   <http://www.ehealthresearch.no/2022/snomedct-lite#> .
+
+
+
+	 
+	 
+sct:Report
+  a rdfs:Class ;
+  rdfs:isDefinedBy <http://www.ehealthresearch.no/2022/snomedct-lite#> ;
+  rdfs:subClassOf schema:MedicalProcedure ;
+  rdfs:label "Clinical Report"@en ;
+  ns0:term_status "stable" .
+  
+sct:Service
+  a rdfs:Class ;
+  rdfs:isDefinedBy <http://www.ehealthresearch.no/2022/snomedct-lite#> ;
+  rdfs:label "Service"@en ;
+  rdfs:subClassOf msm:Service ;
+  ns0:term_status "stable" .
+  
+sct:referencesConcept a rdf:Property ;
+	 rdfs:isDefinedBy <http://www.ehealthresearch.no/2022/snomedct-lite#> ;
+	 rdfs:domain sct:Report ;
+	 rdfs:label "references Concept"@en ;
+	 rdfs:range sct:Concept .
+	 
+sct:referencesLocationConcept a rdf:Property ;
+	 rdfs:isDefinedBy <http://www.ehealthresearch.no/2022/snomedct-lite#> ;
+	 rdfs:domain sct:Report ;
+	 rdfs:label "references anatomical location concept"@en ;
+	 rdfs:range sct:Concept .
+	 
+sct:refersToPatient a rdf:Property ;
+	 rdfs:isDefinedBy <http://www.ehealthresearch.no/2022/snomedct-lite#> ;
+	 rdfs:domain sct:Report ;
+	 rdfs:label "refers to patient"@en ;
+	 rdfs:range schema:Patient .
+	 
+sct:refersToMedicalStudy a rdf:Property ;
+	 rdfs:isDefinedBy <http://www.ehealthresearch.no/2022/snomedct-lite#> ;
+	 rdfs:domain sct:Report ;
+	 rdfs:label "refers to medical study"@en ;
+	 rdfs:range schema:MedicalStudy .
+	 
+sct:refersToImage a rdf:Property ;
+	 rdfs:isDefinedBy <http://www.ehealthresearch.no/2022/snomedct-lite#> ;
+	 rdfs:domain sct:Report ;
+	 rdfs:label "refers to medical image"@en ;
+	 rdfs:range schema:ImageObject .
+	 
+sct:locatedAt a rdf:Property ;
+	 rdfs:isDefinedBy <http://www.ehealthresearch.no/2022/snomedct-lite#> ;
+	 rdfs:domain sct:Report ;
+	 rdfs:label "This resource is available at: http://avs.test/oncology_research_repo"@en ;
+	 rdfs:range sct:Service .
+ 
+<http://www.ehealthresearch.no/2022/snomedct-lite#service_oncology_research> a sct:Service ;
+    rdfs:isDefinedBy <http://www.ehealthresearch.no/2022/snomedct-lite#> ;
+    rdfs:label "Service for research in oncology"@en ;
+    ns0:term_status "stable" .
+    
+<http://www.ehealthresearch.no/2022/snomedct-lite#reportExample1> a sct:Report ;
+    rdfs:isDefinedBy <http://www.ehealthresearch.no/2022/snomedct-lite#> ;
+    rdfs:label "reportExample1-prostate cancer Gleason 5"@en ;
+    sct:referencesConcept sct:74013009 ;
+    sct:locatedAt sct:service_oncology_research;
+    ns0:term_status "stable" .
+    
+<http://www.ehealthresearch.no/2022/snomedct-lite#reportExample2> a sct:Report ;
+    rdfs:isDefinedBy <http://www.ehealthresearch.no/2022/snomedct-lite#> ;
+    rdfs:label "reportExample2-radioloc cervical"@en ;
+    sct:referencesConcept sct:84667006 ;
+    sct:locatedAt sct:service_oncology_research;
+    ns0:term_status "stable" .
+

@@ -1,0 +1,2802 @@
+{
+    "C0687676": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0205383": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0202653": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0332448": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0233519": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0033080": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0391857": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0205400": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0015641": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0004509": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0262950": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0203201": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0012222": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C4039399": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0018944": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0567346": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1276489": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0455641": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1268666": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1263769": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0332260": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0458421": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1522240": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C4076681": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0449851": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1297957": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0036628": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C3486686": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C2937276": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0026649": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1300072": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1281150": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0442805": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0025066": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C4274181": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0221198": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C4516969": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0033487": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1720289": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0520477": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0205234": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0205297": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0033575": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0180108": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0347653": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C2367150": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0227963": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0201544": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0426768": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0039597": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C4076613": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0580173": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0444935": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C4274189": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1273602": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1268129": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0736268": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1281142": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0577207": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C4543216": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0027651": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C4274205": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0700329": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0205321": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0332197": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0230318": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0392760": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0017067": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0227997": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0156273": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0020295": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0028259": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0438110": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1301732": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0458083": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0441962": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0040405": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1268950": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1268424": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0750482": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0238792": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0205119": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0205097": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0474116": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0205210": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0201956": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0005682": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0024487": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0443246": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C3665472": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C4274114": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C4274147": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0936073": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0458693": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1444704": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C4273857": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1962945": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1562824": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0439751": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C2939419": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0443172": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0458692": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0011906": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0238767": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0344329": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0750502": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1444018": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0332394": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0700364": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0334025": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0458695": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1290318": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0225983": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0001430": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0268804": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C3686771": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1260954": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0205192": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0449213": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1276442": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0003964": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0227959": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0005767": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0226710": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0021853": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0021376": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0156296": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0522615": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0376358": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0458349": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0267672": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C4273542": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1305036": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0205095": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0475390": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0456532": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0771795": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0442739": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0443288": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0455610": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0458420": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0558762": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0033572": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0205123": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0458696": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C4274195": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C4274171": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0226399": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0085089": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C4274152": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0205160": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0560217": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0229654": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0449900": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0154009": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0014609": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0205197": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0026056": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0179802": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0243005": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0227958": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0426732": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1608329": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0225353": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0241355": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0442212": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0007112": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0020564": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0226769": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1183910": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1267687": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C2315284": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C4274128": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1279155": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C4038628": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0333981": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0033579": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0178415": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1301886": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0227974": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0205161": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0118538": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0205107": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0021440": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C4516707": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0579115": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1282104": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1827061": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0227980": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0019560": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C4273547": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0412720": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0332328": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1281859": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0175649": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C4274157": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0227976": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1280343": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0260194": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0392747": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0332120": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0005953": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0205099": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C3645616": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0475756": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0230278": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0202671": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1285116": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1269644": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0450363": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0024485": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C3887499": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1521733": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0010090": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0032743": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0205093": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0426708": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C4274197": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0205100": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0194790": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0728887": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0443225": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1267688": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0205094": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0012818": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0334000": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "0": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C4282968": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C4274168": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0041618": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0205223": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0175895": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0223552": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0581314": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0684578": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0242114": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0332252": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0581602": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0473161": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C3472633": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0230118": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1275369": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0202670": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0577305": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0227973": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0034896": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0203120": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0205416": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C4274207": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0476486": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0020575": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0001527": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0442215": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0242966": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C2367149": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0332393": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C3866514": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0559147": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1281149": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1513302": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1265765": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C4040966": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C2712106": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1273599": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0012817": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0033578": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0230197": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C4274141": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0032584": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0449468": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0040771": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0022671": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C3203027": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0205276": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0194810": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1272688": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0729596": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0231209": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0205319": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0700321": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0034897": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0241158": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0017889": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C2330062": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0205177": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C3662135": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0559769": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1457887": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0205217": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C4274160": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0291216": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0446380": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0600139": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0441989": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C3881498": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1609982": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0524464": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0428132": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0033581": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C4304904": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0449756": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0026382": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1280086": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0200765": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0018928": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1267482": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C4274191": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0042341": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0437527": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0230301": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0205091": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C4274180": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1279919": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0020507": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0014245": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0150312": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0194804": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0228928": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0578539": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1283169": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1280903": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0746552": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0227960": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C4316599": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0235195": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C3232009": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0581833": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0347944": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0003461": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0332125": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0033573": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0017887": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0348016": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1299353": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0013845": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0282612": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0205183": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0227704": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C4274100": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0238424": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0013227": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0040300": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0227426": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1268127": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0524337": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0734761": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0445140": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0447192": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1276700": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0230303": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C3538919": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0268891": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0205106": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0226709": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0025519": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0418994": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0002903": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0442269": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1266908": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1278980": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1443972": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0401487": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0231287": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0449214": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0205143": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0016911": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0227979": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0243095": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0577035": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1522449": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0225261": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0205108": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0227972": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0524471": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0260698": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0041951": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C4273545": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1321499": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0278463": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0005558": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0227716": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0227703": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0085678": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C2362543": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0019080": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1261322": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0152014": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0138741": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0444532": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0501403": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0020510": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0242485": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0223537": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0205146": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0005001": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1276490": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0577553": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0024204": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1261214": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0577184": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C4274148": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0545013": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C3671893": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0577215": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0009924": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C3494931": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0030163": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0227967": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0556120": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0034599": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0153690": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1268128": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C3164559": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0224993": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0332524": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C4274176": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0456389": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0475264": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C2317349": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0042077": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0559229": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0730119": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0459929": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0021368": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C3222860": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0446603": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1533734": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0341742": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0332651": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C2937421": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0333056": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0262537": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0022614": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0205307": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0242172": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0227404": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C4274120": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0458703": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0035278": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0332437": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0036471": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0458698": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0229048": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0030705": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0332288": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0449215": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0332482": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C2926870": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1273595": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0227690": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0205147": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C4274164": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1300814": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0347892": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C4274186": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1264124": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C3687133": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0333275": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1739363": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1281348": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C4274183": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C4274143": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0205219": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0442825": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0332516": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0202660": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0684083": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0441971": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0342952": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C4274190": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0598801": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0567365": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0437620": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0448421": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C4516360": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0021485": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C2242558": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1761548": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0442737": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0019328": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C2960647": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1277615": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1522726": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1281259": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1537203": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0035269": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C4274142": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0016059": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0429281": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1287816": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0005847": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0442124": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0230168": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0205131": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0035359": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1267689": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0030797": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1281146": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0332514": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0333668": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0231448": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1304698": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0018246": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0227998": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C2729169": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0301630": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0577255": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0039925": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0549379": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0227682": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0205199": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0010709": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0458688": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0481728": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C2318035": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0031001": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1704272": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0205643": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0392752": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0227719": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0729595": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0447187": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0162301": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0227391": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0311392": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0935598": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C4514288": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C3714514": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C2315896": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C4274174": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C4274125": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C4274192": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1960438": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C4274170": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C4274162": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0205114": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0442096": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1704247": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C4274166": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1720771": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0205282": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0205090": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C4041459": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0228071": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0332331": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0006098": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0001418": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0521158": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0227975": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0021102": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0443299": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1300504": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0199900": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0332479": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0497156": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0475373": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0403688": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0230290": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C1317608": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ],
+    "C0205271": [
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/263847000",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/279689003",
+        "https://uts-ws.nlm.nih.gov/rest/content/2022AA/source/SNOMEDCT_US/41216001"
+    ]
+}
